@@ -1,0 +1,28 @@
+body{
+	 background: url(../../image/blue_background_abstract-wide2.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.container{
+	background:white !important;
+	padding:20px;
+}
+.table_short_text input[type=text], .table_short_text input[type=date], .table_short_text select{
+	width:150px;
+}
+.no_bullets li{
+	list-style-type:none;
+	border-bottom:0px !important;
+}
+.hr-border{
+	border-bottom:1px solid #ccc;
+}
+.div-padding{
+	padding:10px;
+	box-sizing:border-box;
+}
+.try{
+	border:1px solid red;
+}

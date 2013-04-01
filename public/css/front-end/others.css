@@ -1,0 +1,38 @@
+/* CSS Document */
+
+.contact{
+	width:100%;
+	border:1px solid #CCC;
+	margin-top:10px;
+}
+.contact-header{
+	height:50px;
+	border-bottom:1px solid #CCC;
+}
+.contact-body{
+	min-height:200px;
+	padding:10px;
+}
+.contact #cas{
+	background-image:url(../../img/CAS_back.gif);
+	background-repeat:no-repeat;
+	background-position: 98% bottom;
+}
+.contact #coe{
+	background-image:url(../../img/COE_back.gif);
+	background-repeat:no-repeat;
+	background-position: 98% bottom;
+}
+.contact #cme{
+	background-image:url(../../img/CME_back.gif);
+	background-repeat:no-repeat;
+	background-position: 98% bottom;
+}
+.contact-footer{
+	height:30px;
+	border-top: 1px solid #CCC;
+}
+.contact-header h4, .contact-footer small{
+	margin-top: 20px;
+	margin-left: 10px;
+}

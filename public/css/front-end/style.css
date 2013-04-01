@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.small-img{
+	width:100px;
+	height:100px;
+}
+
+img{
+	cursor:pointer;
+}
